@@ -1,0 +1,18 @@
+2026-08-12 12:14:13,829 - SDKLogger - INFO - initializer - initializer.py - initialize - 130  - Initialization successful for Email Id : coretrst@alchemisttechme.tech in Environment : https://www.zohoapis.com.
+2026-08-12 12:26:05,426 - SDKLogger - INFO - initializer - initializer.py - initialize - 130  - Initialization successful for Email Id : coretrst@alchemisttechme.tech in Environment : https://www.zohoapis.com.
+2026-08-12 12:26:07,767 - SDKLogger - INFO - api_http_connector - api_http_connector.py - fire_request - 100  - GET - URL = https://www.zohoapis.com/crm/v2/settings/modules , HEADERS = {"Authorization": " ## can't disclose ## ", "X-ZOHO-SDK": "Windows/10 python/3.12.10:3.1.0"} , PARAMS = {}.
+2026-08-12 12:26:09,397 - SDKLogger - INFO - utility - utility.py - get_fields_info - 179  - ExceptionCaused By: API_EXCEPTION - {"code": "OAUTH_SCOPE_MISMATCH", "status": "error", "message": "invalid oauth scope to access this URL"}
+2026-08-12 12:42:21,183 - SDKLogger - INFO - initializer - initializer.py - initialize - 130  - Initialization successful for Email Id : coretrst@alchemisttechme.tech in Environment : https://www.zohoapis.com.
+2026-08-12 12:42:22,727 - SDKLogger - INFO - common_api_handler - common_api_handler.py - api_call - 290  - Exception in authenticating current request : Caused By: INVALID CLIENT ERROR - invalid_code
+2026-08-12 12:42:22,727 - SDKLogger - INFO - utility - utility.py - get_fields_info - 179  - ExceptionCaused By: INVALID CLIENT ERROR - invalid_code
+2026-08-12 12:43:30,251 - SDKLogger - INFO - initializer - initializer.py - initialize - 130  - Initialization successful for Email Id : coretrst@alchemisttechme.tech in Environment : https://www.zohoapis.com.
+2026-08-12 12:43:31,631 - SDKLogger - INFO - common_api_handler - common_api_handler.py - api_call - 290  - Exception in authenticating current request : Caused By: INVALID CLIENT ERROR - invalid_code
+2026-08-12 12:43:31,632 - SDKLogger - INFO - utility - utility.py - get_fields_info - 179  - ExceptionCaused By: INVALID CLIENT ERROR - invalid_code
+2026-08-12 12:47:29,361 - SDKLogger - INFO - initializer - initializer.py - initialize - 130  - Initialization successful for Email Id : coretrst@alchemisttechme.tech in Environment : https://www.zohoapis.com.
+2026-08-12 12:47:31,007 - SDKLogger - INFO - api_http_connector - api_http_connector.py - fire_request - 100  - GET - URL = https://www.zohoapis.com/crm/v2/settings/modules , HEADERS = {"Authorization": " ## can't disclose ## ", "X-ZOHO-SDK": "Windows/10 python/3.12.10:3.1.0"} , PARAMS = {}.
+2026-08-12 12:47:32,686 - SDKLogger - ERROR - common_api_handler - common_api_handler.py - api_call - 336  - Exception in current API call execution : Caused By: None - [Errno 22] Invalid argument
+2026-08-12 12:47:32,686 - SDKLogger - INFO - utility - utility.py - get_fields_info - 179  - ExceptionCaused By: None - [Errno 22] Invalid argument
+2026-08-12 12:48:16,261 - SDKLogger - INFO - initializer - initializer.py - initialize - 130  - Initialization successful for Email Id : coretrst@alchemisttechme.tech in Environment : https://www.zohoapis.com.
+2026-08-12 12:48:16,374 - SDKLogger - INFO - api_http_connector - api_http_connector.py - fire_request - 100  - GET - URL = https://www.zohoapis.com/crm/v2/settings/modules , HEADERS = {"Authorization": " ## can't disclose ## ", "X-ZOHO-SDK": "Windows/10 python/3.12.10:3.1.0"} , PARAMS = {}.
+2026-08-12 12:48:18,030 - SDKLogger - ERROR - common_api_handler - common_api_handler.py - api_call - 336  - Exception in current API call execution : Caused By: None - [Errno 22] Invalid argument
+2026-08-12 12:48:18,031 - SDKLogger - INFO - utility - utility.py - get_fields_info - 179  - ExceptionCaused By: None - [Errno 22] Invalid argument
