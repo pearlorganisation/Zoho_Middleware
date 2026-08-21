@@ -1,0 +1,3 @@
+python -m pip install --upgrade tzdata
+uvicorn email_sender:app --host 0.0.0.0 --port 8000
+python -m uvicorn email_sender:app --host 0.0.0.0 --port 8000
